@@ -3,7 +3,7 @@
 }
 
 html {
-    font-size: 28px;
+    font-size: 1.75em;
     font-weight: 800;
 }
 
@@ -91,7 +91,7 @@ button:hover {
     cursor: pointer;
 }
 
-.attribution { font-size: 11px; text-align: center; }
+.attribution { font-size: 0.68em; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
 
 @media (min-width: 375px){
